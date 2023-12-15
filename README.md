@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhrajit Sahoo
 =======================================================================================================================================
-<img src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2023/07/Code-typing-1.gif?resize=500%2C500&ssl=1" width="400px">
 Software Devloper
 -----------------
 
