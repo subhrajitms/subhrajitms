@@ -7,7 +7,7 @@ Software Devloper
 I love Coding!!!
 
 * 🌍  I'm based in Bengaluru, Karnataka
-* ✉️  You can contact me at [subhrajitsahoo186@gmail.com](mailto:subhrajitsahoo186@gmail.com) <img src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2023/07/Code-typing-1.gif?resize=500%2C500&ssl=1" width="400px">
+* ✉️  You can contact me at [subhrajitsahoo186@gmail.com](mailto:subhrajitsahoo186@gmail.com)
 * 🧠  I'm learning Java Full Stack Devlopement
 * ⚡  I have done project on Travel Management System By using HTML,CSS , JAVASCRIPT
 
