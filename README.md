@@ -11,12 +11,11 @@ I love Coding!!!
 * 🧠  I'm learning Java Full Stack Devlopement
 * ⚡  I have done project on Travel Management System By using HTML,CSS , JAVASCRIPT
   
-
+<img src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2023/07/Code-typing-1.gif?resize=500%2C500&ssl=1" width="400px">
 <a href="https://www.x.com/subhrajit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/subhrajit?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
-<img src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2023/07/Code-typing-1.gif?resize=500%2C500&ssl=1" width="400px">
 
 ### Skills
 
